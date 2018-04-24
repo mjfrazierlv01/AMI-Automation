@@ -29,11 +29,8 @@ Install the following components and choose the correct one for the operating sy
    
    https://www.npmjs.com/package/jasmine-spec-reporter   
    
-6. My SQL Workbench (For Challenge 2)
 
-   https://www.mysql.com/products/workbench/
-   
-7. Latest version of Firefox Browser
+6. Latest version of Firefox Browser
 
    https://www.mozilla.org/en-US/firefox/new/?utm_medium=referral&utm_source=firefox-com
    
